@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p420
-- 👀 I’m interested in ... data science
-- 🌱 I’m currently learning ... data science & Machine learning using python
+- 👀 I’m interested in ... Data Analyst
+- 🌱 I’m currently Working  as a Programmatic Adops Associate.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/prince-sharma9988/
 
