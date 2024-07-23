@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p420
+- 👋 Hi, I’m Prince Sharma
 - 👀 I’m interested in ... Data Analyst
 - 🌱 I’m currently Working  as a Programmatic Adops Associate.
 - 💞️ I’m looking to collaborate on ...
